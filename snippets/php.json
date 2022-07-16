@@ -1,0 +1,7 @@
+{
+  "exit and print object": {
+    "prefix": "epo",
+    "body": "exit(print_object($${1:object}));",
+    "description": "exit(print_object($some_object))"
+  }
+}
